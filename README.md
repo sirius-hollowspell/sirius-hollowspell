@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirius-hollowspell
-- 👀 I’m interested in coding projects in Python
+- 👀 I’m interested in coding projects in Python and making website combining HTML and CSS
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at hollowspell@gmail.com
